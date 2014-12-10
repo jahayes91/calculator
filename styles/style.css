@@ -44,5 +44,11 @@ html,body {
   margin-left:0px;
   margin-right:0px;
   width:390px;
-
 }
+
+#output {
+  color:#fff;
+  font-size:36px;
+  text-decoration:bold;
+}
+
