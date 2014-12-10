@@ -1,0 +1,48 @@
+html,body {
+  margin: 0;
+  padding: 0;
+}
+
+#calculator-screen {
+  margin-top:5px;
+  margin-bottom:5px;
+  margin-left:auto;
+  margin-right:auto;
+  background-color:green;
+  height:140px;
+  width:390px;
+}
+
+#button-container {
+  margin:0px 5px 5px 5px;
+}
+
+#buttons {
+  margin:0px;
+  padding:0px;
+}
+#buttons li{
+  margin:0px;
+  padding:0px;
+
+  list-style-type:none;
+  display:inline;
+}
+
+.float-button{
+  float:left;
+  width:130px;
+}
+
+.button {
+  height:86px;
+  background-color:grey;
+}
+
+#no0 {
+  clear:both;
+  margin-left:0px;
+  margin-right:0px;
+  width:390px;
+
+}
